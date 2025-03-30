@@ -77,8 +77,6 @@ while True:
         # Wait for the cleaning thread to finish
         clean_thread.join()
 
-    print(status_list)
-
     cv2.imshow("Video", frame)
     key = cv2.waitKey(1)
 
