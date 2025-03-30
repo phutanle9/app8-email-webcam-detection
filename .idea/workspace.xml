@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d19a6b93-7525-4c4e-a394-2173e6b329f4" name="Changes" comment="complete check attach ment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emailing.py" beforeDir="false" afterPath="$PROJECT_DIR$/emailing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="d19a6b93-7525-4c4e-a394-2173e6b329f4" name="Changes" comment="complete send mail" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,12 +122,40 @@
       <option name="project" value="LOCAL" />
       <updated>1743322612740</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="complete send mail">
+      <option name="closed" value="true" />
+      <created>1743332746401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743332746402</updated>
+    </task>
+    <task id="LOCAL-00004" summary="complete send mail">
+      <option name="closed" value="true" />
+      <created>1743332767729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743332767729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add commit" />
     <MESSAGE value="complete check attach ment" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete check attach ment" />
+    <MESSAGE value="complete send mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete send mail" />
   </component>
 </project>
